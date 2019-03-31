@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<corpus name="boston104">
+  <!-- created with createcorpus.py -->
+  <speaker-description name="woman-1">
+    <gender>
+      female
+    </gender>
+  </speaker-description>
+  <speaker-description name="woman-2">
+    <gender>
+      female
+    </gender>
+  </speaker-description>
+  <speaker-description name="man-1">
+    <gender>
+      male
+    </gender>
+  </speaker-description>
+</corpus>
