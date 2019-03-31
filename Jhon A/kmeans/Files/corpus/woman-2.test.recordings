@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<corpus name="boston104">
+  <!-- created with corpus.py -->
+  <recording name="012" video="012/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN CAN GO CAN [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="021" video="021/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN FISH WONT EAT BUT CAN EAT CHICKEN [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="025" video="025/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN LIKE IX IX IX [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="028" video="028/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN LIKE IX IX IX [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="054" video="054/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN SHOULD NOT BUY HOUSE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="071" video="071/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN WILL VISIT MARY [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="077" video="077/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] ANN BLAME MARY [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="089" video="089/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        JOHN IX GIVE MAN IX NEW COAT [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="092" video="092/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN GIVE IX SOMETHING-ONE WOMAN BOOK [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="108" video="108/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] WOMAN ARRIVE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="122" video="122/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN READ BOOK [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="201" video="201/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN TELL MARY IX-1P BUY HOUSE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+</corpus>

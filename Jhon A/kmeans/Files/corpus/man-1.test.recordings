@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<corpus name="boston104">
+  <!-- created with corpus.py -->
+  <recording name="007" video="007/frame*_cam">
+    <segment>
+      <speaker name="man-1"/>
+      <orth>
+        [SILENCE] JOHN CAN GO CAN [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="030" video="030/frame*_cam">
+    <segment>
+      <speaker name="man-1"/>
+      <orth>
+        [SILENCE] JOHN LIKE IX IX IX [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="036" video="036/frame*_cam">
+    <segment>
+      <speaker name="man-1"/>
+      <orth>
+        [SILENCE] MARY VEGETABLE KNOW IX LIKE CORN [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="040" video="040/frame*_cam">
+    <segment>
+      <speaker name="man-1"/>
+      <orth>
+        [SILENCE] JOHN IX THINK MARY LOVE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="057" video="057/frame*_cam">
+    <segment>
+      <speaker name="man-1"/>
+      <orth>
+        JOHN DECIDE VISIT MARY [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="074" video="074/frame*_cam">
+    <segment>
+      <speaker name="man-1"/>
+      <orth>
+        [SILENCE] JOHN NOT VISIT MARY [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="090" video="090/frame*_cam">
+    <segment>
+      <speaker name="man-1"/>
+      <orth>
+        [SILENCE] JOHN GIVE IX SOMETHING-ONE WOMAN BOOK [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="107" video="107/frame*_cam">
+    <segment>
+      <speaker name="man-1"/>
+      <orth>
+        [SILENCE] JOHN POSS FRIEND HAVE CANDY [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="113" video="113/frame*_cam">
+    <segment>
+      <speaker name="man-1"/>
+      <orth>
+        [SILENCE] IX CAR BLUE SUE BUY [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="119" video="119/frame*_cam">
+    <segment>
+      <speaker name="man-1"/>
+      <orth>
+        [SILENCE] SUE BUY IX CAR BLUE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="139" video="139/frame*_cam">
+    <segment>
+      <speaker name="man-1"/>
+      <orth>
+        [SILENCE] JOHN BUY WHAT YESTERDAY BOOK [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="158" video="158/frame*_cam">
+    <segment>
+      <speaker name="man-1"/>
+      <orth>
+        [SILENCE] LOVE JOHN WHO [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="167" video="167/frame*_cam">
+    <segment>
+      <speaker name="man-1"/>
+      <orth>
+        [SILENCE] JOHN IX SAY LOVE MARY [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="171" video="171/frame*_cam">
+    <segment>
+      <speaker name="man-1"/>
+      <orth>
+        [SILENCE] JOHN MARY BLAME [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="174" video="174/frame*_cam">
+    <segment>
+      <speaker name="man-1"/>
+      <orth>
+        [SILENCE] PEOPLE GROUP GIVE JANA TOY [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="181" video="181/frame*_cam">
+    <segment>
+      <speaker name="man-1"/>
+      <orth>
+        [SILENCE] JOHN ARRIVE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="184" video="184/frame*_cam">
+    <segment>
+      <speaker name="man-1"/>
+      <orth>
+        [SILENCE] ALL BOY GIVE TEACHER APPLE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="189" video="189/frame*_cam">
+    <segment>
+      <speaker name="man-1"/>
+      <orth>
+        [SILENCE] JOHN GIVE GIRL BOX [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="193" video="193/frame*_cam">
+    <segment>
+      <speaker name="man-1"/>
+      <orth>
+        [SILENCE] JOHN GIVE GIRL BOX [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+</corpus>

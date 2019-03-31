@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<corpus name="boston104">
+  <!-- created with corpus.py -->
+  <recording name="002" video="002/frame*_cam">
+    <segment>
+      <speaker name="woman-1"/>
+      <orth>
+        [SILENCE] JOHN WRITE HOMEWORK [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="043" video="043/frame*_cam">
+    <segment>
+      <speaker name="woman-1"/>
+      <orth>
+        [SILENCE] JOHN MUST BUY HOUSE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="050" video="050/frame*_cam">
+    <segment>
+      <speaker name="woman-1"/>
+      <orth>
+        [SILENCE] FUTURE JOHN BUY CAR SHOULD [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="067" video="067/frame*_cam">
+    <segment>
+      <speaker name="woman-1"/>
+      <orth>
+        [SILENCE] JOHN FUTURE NOT BUY HOUSE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="084" video="084/frame*_cam">
+    <segment>
+      <speaker name="woman-1"/>
+      <orth>
+        [SILENCE] IX-1P FIND SOMETHING-ONE BOOK [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="100" video="100/frame*_cam">
+    <segment>
+      <speaker name="woman-1"/>
+      <orth>
+        [SILENCE] POSS NEW CAR BREAK-DOWN [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="105" video="105/frame*_cam">
+    <segment>
+      <speaker name="woman-1"/>
+      <orth>
+        [SILENCE] JOHN LEG [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="142" video="142/frame*_cam">
+    <segment>
+      <speaker name="woman-1"/>
+      <orth>
+        [SILENCE] JOHN BUY YESTERDAY WHAT BOOK [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="199" video="199/frame*_cam">
+    <segment>
+      <speaker name="woman-1"/>
+      <orth>
+        [SILENCE] LIKE CHOCOLATE WHO [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+</corpus>

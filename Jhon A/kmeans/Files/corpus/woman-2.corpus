@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8"?>
+<corpus name="boston104">
+  <!-- created with corpus.py -->
+  <speaker-description name="woman-2">
+    <gender>
+      female
+    </gender>
+  </speaker-description>
+  <recording name="003" video="003/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] IX-1P SEE JOHN YESTERDAY IX [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="005" video="005/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] LOVE MARY JOHN [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="006" video="006/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] LOVE MARY JOHN IX [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="009" video="009/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN CAN GO1 CAN [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="011" video="011/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN CAN GO1 CAN [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="013" video="013/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN CAN GO1 CAN [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="014" video="014/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN CAN GO1 CAN [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="015" video="015/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN FUTURE GO2 PARTY FUTURE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="017" video="017/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN FUTURE1 GO IX [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="019" video="019/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN FISH WONT EAT BUT CAN EAT CHICKEN [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="020" video="020/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN FISH WONT EAT BUT CAN EAT CHICKEN [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="022" video="022/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] VEGETABLE CHINA IX PEOPLE PREFER BROCCOLI [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="023" video="023/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] VEGETABLE CHINA IX PEOPLE PREFER BROCCOLI [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="024" video="024/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN LIKE IX IX IX [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="026" video="026/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN LIKE IX IX IX [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="027" video="027/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN LIKE IX IX IX [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="032" video="032/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN LEAVE IX [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="033" video="033/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN LEAVE IX [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="034" video="034/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN SAY MARY IX-1P BUY HOUSE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="037" video="037/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] MARY VEGETABLE IX-1P KNOW IX LIKE CORN1 [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="038" video="038/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] MARY VEGETABLE KNOW IX LIKE CORN1 [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="041" video="041/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN IX THINK MARY LOVE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="044" video="044/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN FUTURE BUY HOUSE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="047" video="047/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN BUY CAR FUTURE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="053" video="053/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN SHOULD NOT BUY HOUSE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="055" video="055/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN SHOULD BUY HOUSE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="068" video="068/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] LAST-WEEK JOHN GO NEW-YORK [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="069" video="069/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN WILL VISIT MARY [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="070" video="070/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN WILL VISIT MARY [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="072" video="072/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN FINISH VISIT MARY [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="075" video="075/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN FUTURE FINISH VISIT MARY [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="076" video="076/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] ANN BLAME MARY [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="078" video="078/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN FUTURE FINISH SEE MARY [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="079" video="079/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN SHOULD FINISH READ BOOK [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="080" video="080/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN FUTURE FINISH READ BOOK [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="081" video="081/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN LIKE CHOCOLATE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="087" video="087/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN GIVE IX MAN IX NEW COAT [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="088" video="088/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN GIVE IX MAN NEW COAT [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="091" video="091/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN IX GIVE IX WOMAN IX BOOK [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="094" video="094/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN GIVE1 IX SOMETHING-ONE WOMAN BOOK [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="097" video="097/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] FRANK POSS NEW CAR BREAK-DOWN [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="102" video="102/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN SEARCH-FOR WHO POSS BOOK WHAT [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="109" video="109/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] WOMAN ARRIVE HERE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="110" video="110/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] WHAT SOMETHING-ONE WHAT WOMAN ARRIVE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="111" video="111/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] WHAT WOMAN WHAT ARRIVE HERE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="115" video="115/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] SOMETHING-ONE CAR STOLEN [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="121" video="121/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN READ BOOK [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="195" video="195/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN NOT VISIT MARY VISIT MOTHER IX [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="012" video="012/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN CAN GO CAN [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="021" video="021/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN FISH WONT EAT BUT CAN EAT CHICKEN [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="025" video="025/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN LIKE IX IX IX [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="028" video="028/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN LIKE IX IX IX [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="054" video="054/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN SHOULD NOT BUY HOUSE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="071" video="071/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN WILL VISIT MARY [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="077" video="077/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] ANN BLAME MARY [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="089" video="089/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        JOHN IX GIVE MAN IX NEW COAT [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="092" video="092/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN GIVE IX SOMETHING-ONE WOMAN BOOK [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="108" video="108/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] WOMAN ARRIVE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="122" video="122/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN READ BOOK [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+  <recording name="201" video="201/frame*_cam">
+    <segment>
+      <speaker name="woman-2"/>
+      <orth>
+        [SILENCE] JOHN TELL MARY IX-1P BUY HOUSE [SILENCE]
+      </orth>
+    </segment>
+  </recording>
+</corpus>
