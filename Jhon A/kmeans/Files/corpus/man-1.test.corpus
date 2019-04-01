@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<corpus name="boston104">
+  <!-- created with corpus.py -->
+  <include file="man-1.test.speaker"/>
+  <include file="man-1.test.recordings"/>
+</corpus>
